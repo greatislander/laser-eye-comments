@@ -18,4 +18,4 @@ Code comments written according to a specification (e.g. JSDoc, phpDocumentor, o
 
 - [JavaScript](https://github.com/greatislander/laser-eye-comments/tree/dev/js/)
 - [PHP](https://github.com/greatislander/laser-eye-comments/tree/dev/php/)
-- [Pyhon](https://github.com/greatislander/laser-eye-comments/tree/dev/python/)
+- [Python](https://github.com/greatislander/laser-eye-comments/tree/dev/python/)
