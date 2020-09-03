@@ -38,7 +38,7 @@ sphinx-build -b html . docs/sphinx
 
 The generated files will be found in the `docs/sphinx` directory.
 
-More info: https://www.sphinx-doc.org/en/master/
+More info: [Sphinx](https://www.sphinx-doc.org/en/master/)
 
 ## Pycco
 
@@ -49,4 +49,4 @@ pycco *.py
 
 The generated files will be found in the `docs/` directory.
 
-More info: https://pycco-docs.github.io/pycco/
+More info: [Pycco](https://pycco-docs.github.io/pycco/)
