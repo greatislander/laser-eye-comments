@@ -1,3 +1,6 @@
+# Configuration for Sphinx.
+# See https://tobywf.com/2019/08/running-sphinx-on-a-single-python-file/
+
 import os
 import sys
 
@@ -9,7 +12,6 @@ author = "Ned Zimmerman"
 extensions = ["sphinx.ext.autodoc", "sphinx.ext.intersphinx"]
 templates_path = ["_templates"]
 html_theme = "alabaster"
-# html_static_path = ["_static"]
 intersphinx_mapping = {
     "python": ("https://docs.python.org/3", None)
 }
