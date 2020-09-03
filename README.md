@@ -1,4 +1,8 @@
-# What
+# Code Comments
+
+> 4. The public API is commented. ([source](https://wiki.fluidproject.org/display/fluid/Laser+Eye+Checklist))
+
+## What
 
 Generally code comments take one of three forms:
 
