@@ -8,3 +8,5 @@ vendor/bin/phpdoc -d ./ --ignore "vendor/" -t ./docs
 ```
 
 The generated files will be found in the `docs/` directory.
+
+More info: https://www.phpdoc.org/
